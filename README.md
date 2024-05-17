@@ -1,5 +1,5 @@
 # Project Title: Enhancing ML Performance Through Class Imbalance Solutions
-## Mohammad Kamil (29464)
+## Developed By:    Mohammad Kamil (29464)     - SMCS
 ### In this project, I have implemented various class imbalance techniques on different imbalanced datasets from Kaggle and compared the performance of each technique. Initially, I ran baseline executions before applying these techniques and then evaluated the results after application. I ahve also applied different features selection techniques including filter methods,wrapper methods and PCA and other necessary things like EDA etc.
 ## The classification models used in this project include:
 - KNN
