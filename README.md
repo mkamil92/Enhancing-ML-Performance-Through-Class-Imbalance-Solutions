@@ -8,3 +8,14 @@
 - SVM
 
 ### I compared the model performance using confusion matrices and classification reports. The conclusion for each technique on different datasets is documented in individual notebooks.
+## Class Imbalance Techniques used in this project include:
+I have used following class imbalacne techniques in this project:
+- Ensemble Methods and Weights
+- Clustering-based Oversampling
+- Oversampling with SMOTE (Synthetic Minority Over-sampling Technique)
+
+## Selected Dataset from Kaggle
+I have select following imbalance dataset from Kaggle:
+- Cerebral Stroke Prediction-Imbalanced Dataset (https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset)
+- IT Customer Chrun (https://www.kaggle.com/datasets/soheiltehranipour/it-customer-churn/)
+- Credit-card-Fraud Detection-Imbalanced-Dataset (https://www.kaggle.com/datasets/dark06thunder/credit-card-dataset)
